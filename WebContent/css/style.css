@@ -73,6 +73,10 @@ button {
     text-align: center;
 }
 
+ul {
+  list-style: none;
+}
+
 #flush_success {
     width: 100%;
     padding-top: 28px;
